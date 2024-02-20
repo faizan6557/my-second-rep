@@ -9,7 +9,7 @@
 #define WIN_WIDTH 70
 #define kEY_RIGHT 77
 #define KEY_LEFT 75 
-
+#Add forleoop
 using namespace std;
 
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE);
